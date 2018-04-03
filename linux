@@ -1,0 +1,12 @@
+1、Linux下/etc/下有哪些配置文件，有什么用？resolve.conf是用来做什么的
+2、如果修改Linux下网卡配置，在哪修改
+3、Linux的7个运行级别
+4、gdb调试core文件的参数是什么
+5、Linux下如何检测内存泄露？如何检测程序crash
+6、gdb调试设断点？如何查看系统堆栈
+7、Linux下swap区作用
+8、Linux查看文件的磁盘空间，监控进程cpu，内存使用率
+9、Linux的找到目录中cpp文件？如何找文件中一变量？
+10、Linux编程中的锁有哪些
+11、Linux环境变量的配置
+12、Linux重定向
