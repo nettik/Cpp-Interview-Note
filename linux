@@ -3,10 +3,18 @@
 3、Linux的7个运行级别
 4、gdb调试core文件的参数是什么
 5、Linux下如何检测内存泄露？如何检测程序crash
-6、gdb调试设断点？如何查看系统堆栈
+6、gdb调试设断点？如何查看系统堆栈，查看寄存器
 7、Linux下swap区作用
 8、Linux查看文件的磁盘空间，监控进程cpu，内存使用率
 9、Linux的找到目录中cpp文件？如何找文件中一变量？
 10、Linux编程中的锁有哪些
 11、Linux环境变量的配置
 12、Linux重定向
+13、Linux中du和df的区别
+14、文件权限的修改
+15、linux检测内存使用情况
+16、Linux相关命令:top、free、sed、grep、cut、netstat、ps……
+17、Linux内存的管理
+18、Linux IO多路复用的机制：select,poll,epoll。三种复用机制的区别与联系？
+19、Linux下进程的内存布局
+20、gcc常用编译选项有哪些，作用是什么
